@@ -1,0 +1,36 @@
+body{
+    background-color: #bdbdbd;
+    margin: 0;
+}
+header{
+    background-color: white;
+    margin: 0;
+    
+}
+h1{
+    padding-left: 10px;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    padding-top: 28px;
+}
+.PostPhoto{
+background-color: white;
+}
+img{
+    width: 100%;
+}
+p{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
